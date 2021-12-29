@@ -1,4 +1,4 @@
-# My names's Luke :clap:
+# My name's Luke :clap:
 __*Student & software engineer*__
 
 Currently working on Audiology and Listen@Home. :point_right: [View them here.](https://github.com/lukes00/audiology)
