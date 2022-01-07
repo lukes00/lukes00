@@ -1,8 +1,6 @@
 # My name's Luke :clap:
 __*Student & software engineer*__
 
-Currently working on Audiology and Listen@Home. :point_right: [View them here.](https://github.com/lukes00/audiology)
-
 <!--
 **lukes00/lukes00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
